@@ -1,0 +1,5 @@
+*.json
+*.db
+bit_virt/
+crypto
+*.pyc

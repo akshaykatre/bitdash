@@ -1,0 +1,18 @@
+.boxset1,.boxset2 {
+  display:flex;
+  background-color: bisque;
+  width:100%;
+  justify-content: center;
+}
+
+.box.box1,.box.box2,.box.box3,.box.box4{
+    border-width: 10px;
+    border-color: black;
+    border: 1px  black;
+    margin: 20px;
+    font-size: x-large;
+}
+
+.crypt-values{
+  color: green;
+}
